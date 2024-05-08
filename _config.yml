@@ -2,3 +2,4 @@ title: passwordpaper
 logo: me.png
 description: Physics and tech enthusiasm
 theme: jekyll-theme-minimal
+markdown: kramdown
