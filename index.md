@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: math
 ---
 
 # This site is intentionally bare, but welcome!
