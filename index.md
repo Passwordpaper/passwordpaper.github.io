@@ -23,4 +23,4 @@ Two things that cause passwords to be bad are when they are made up of easy thin
 
 ## Do you like LaTeX
 
-Why ye$$\int ~i~do$$.
+Why ye$$\int ~i~d\vec{o}$$.
