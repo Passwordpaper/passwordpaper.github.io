@@ -19,11 +19,11 @@ To associate gpg-agent with current key use:
 * export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)</li>
 * gpgconf --launch gpg-agent</li>
 
-## Time to test math{testin}
+## Time to test math
 
 \begin{equation}
 \label{testin}
 \int_0^x \frac{d~cabin}{cabin}
 \end{equation}
 
-You can now reference equation \eqref{testin}.
+You can now reference equation $$\eqref{testin}$$.
