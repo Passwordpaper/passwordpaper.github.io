@@ -3,3 +3,5 @@ logo: me.png
 description: Physics and tech enthusiasm
 theme: jekyll-theme-minimal
 markdown: kramdown
+kramdown:
+    math_engine: katex
