@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$$', '$$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
 # This site is intentionally bare, but welcome!
 See below for the answers to some questions you might be asking:
 
@@ -23,4 +37,4 @@ Two things that cause passwords to be bad are when they are made up of easy thin
 
 ## Do you like LaTeX
 
-Why ye$$\int ~i~do$$.
+Why ye$\int ~i~do$.
