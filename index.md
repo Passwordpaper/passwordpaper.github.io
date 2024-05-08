@@ -20,3 +20,7 @@ I have opted to use one of the default Jekyll themes in Github pages. This allow
 ## Why "passwordpaper" for a name?
 
 Two things that cause passwords to be bad are when they are made up of easy things to remember (and therefore guess) and when they are reused. In a simpler time when we only had to keep track of 10 passwords or so, one way to avoid bad passwords was to make random-enough passwords with a random number generator and to write them all on an index card you could keep in your wallet. People already know how to keep little pieces of paper in their wallet safe, and it was a better system than using your dog's name, your favorite number, and your old school mascot all smushed together as your password for everything. It is not a reference to keeping the password to your computer on a sticky note attached to your computer, which is mostly a bad idea. 
+
+## Do you like LaTeX
+
+Why ye$$\int ~i~do$$.
