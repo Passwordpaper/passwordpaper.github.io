@@ -1,0 +1,26 @@
+---
+layout: math
+---
+
+<header>
+  <h1>To connect to ssh with yubikey</h1>
+  <aside>gpg-agent --enable-ssh-support --daemon ssh -vp 54984 user@hostname</aside>
+</header>
+        
+<p>stop. do you have pgp.key?</p>
+<p>kk. continue</p>
+<p>To associate gpg-agent with current key use:</p>
+<li>gpg-connect-agent "scd serialno" "learn --force" /bye</li>
+
+<p>OK that didn't work</p>
+<li>get keygrip with gpg -K --with-keygrip and put it in ~/.gnupg/sshcontrol</li>
+<li>paste enable-ssh-support into ~/.gnupg/gpg-agent.conf if it's not there</li>
+<li>export SSH_AUTH_SOCK=$(gpgconf --list-dirs agent-ssh-socket)</li>
+<li>gpgconf --launch gpg-agent</li>
+
+<p>Time to test math and \eqref{testin}</p>
+
+\begin{equation}
+\label{testin}
+\int_0^x \frac{d~cabin}{cabin}
+\end{equation}
