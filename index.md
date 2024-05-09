@@ -4,12 +4,6 @@ layout: math
 
 # This site is intentionally bare, but welcome!
 
-{% for post in site.posts %}
-
-    [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-
-{% endfor %}
-
 ## FAQ
 
 See below for the answers to some questions you might be asking:
