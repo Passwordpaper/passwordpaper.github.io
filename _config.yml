@@ -1,6 +1,6 @@
 title: passwordpaper
 logo: me.png
 description: Physics and tech enthusiasm
-theme: jekyll-theme-minimal
+remote_theme: alshedivat/al-folio
 github:
   is_project_page: false
