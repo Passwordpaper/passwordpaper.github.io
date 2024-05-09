@@ -1,3 +1,4 @@
 title: passwordpaper
+logo: me.png
 description: Physics and tech enthusiasm
-remote-theme: barryclark/jekyll-now
+remote_theme: mmistakes/minimal-mistakes
