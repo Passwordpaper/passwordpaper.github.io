@@ -1,10 +1,4 @@
 ---
 layout: home
+title: This site is intentionally bare, but welcome!
 ---
-
-# This site is intentionally bare, but welcome!
-
-{% for post in site.posts %}
-  [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-  
-{% endfor %}
