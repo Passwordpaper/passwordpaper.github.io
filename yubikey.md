@@ -1,8 +1,7 @@
 ---
 layout: math
+title: To connect to ssh with yubikey
 ---
-
-# To connect to ssh with yubikey
 
 gpg-agent --enable-ssh-support --daemon ssh -vp 39826 user@hostname
         
