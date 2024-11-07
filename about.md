@@ -3,6 +3,8 @@ layout: single
 title: About the site
 ---
 
+I wanted to have a web site. Web sites are cool. Social media platforms have better communication and discovery mechanisms, but you're at the whim of someone else's business model. I can do without the intrusive advertising and data mining. I might make little blog posts here about stuff I'm doing, usually involving tech in some way.
+
 ## FAQ
 
 See below for the answers to some questions you might be asking:
