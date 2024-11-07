@@ -3,7 +3,7 @@ layout: single
 title: About the site
 ---
 
-I wanted to have a web site. Web sites are cool. Social media platforms have better communication and discovery mechanisms, but you're at the whim of someone else's business model. I can do without the intrusive advertising and data mining. I might make little blog posts here about stuff I'm doing, usually involving tech in some way.
+I wanted to have a web site. Web sites are cool. Social media platforms have better communication and discovery mechanisms, but you're at the whim of someone else's business model. I don't like the intrusive advertising and data mining inherent to profit-driven social media. Of course, if I just throw all of my social media on the open web, that could just be scraped as well, but I can mostly reduce the downsides of that by not putting personal information on the site. I assume anyone reading this already knows who I am, so if you want to talk to me about something I post, send me an email or a letter or a message or a text or whatever. If you need to get good contact info for me, then you can try to email me via squint-bushel.0i[AT]icloud[DOT]com, but if I get a bunch of spam, then I'm going to delete that email address.
 
 ## FAQ
 
