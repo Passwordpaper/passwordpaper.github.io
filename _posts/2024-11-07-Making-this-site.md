@@ -11,6 +11,7 @@ If you too want to make a web site like this, this isn't a tutorial, but here's 
 * Make an index.md file to modify the stuff that appears above your list of posts on your home page
 * Make a navigation.yml file in a folder called _data if you want to have a custom home bar
 * Make a folder called _posts full of text files named [YEAR]-[MONTH]-[DAY]-[TITLE].md. They will become pages linked from your home page.
-* Go into your account settings and turn on Pages
+* Go into the repository settings and turn on Pages
+* You can purchase a domain and set it up to point to your web site for like $10 a year. You have to set it up with your domain registrar and in your user settings on GitHub and in your repository settings.
 
 It makes its own RSS feed for me! This is great!
