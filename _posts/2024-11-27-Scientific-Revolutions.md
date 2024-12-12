@@ -1,5 +1,5 @@
 ---
-title: 'Book post: The Structure of Scientific Revolutions'
+title: 'Book Post: The Structure of Scientific Revolutions'
 ---
 
 After my grandfather mentioned it a few times, I finally checked out a copy of this essay by Thomas Kuhn, which is over 100 pages deconstructing the practice of science as it is actually performed. My preferred view of science is that it is the thing where you decide what models of the world are correct by making predictions using those models and doing experiements to see if your predictions are correct. This is a powerful tool for truth-finding, but it so happens that there is too much truth in the world for a single person to know it all, and so science-in-practice is a community of people doing experiments. Kuhn addresses the dynamics of this community.
