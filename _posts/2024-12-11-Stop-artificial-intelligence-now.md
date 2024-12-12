@@ -1,3 +1,7 @@
+---
+title: "Half an Argument for Stopping AI Research Now"
+---
+
 I thought I could make a short intuitive argument for why AI research is dangerous, but I got halfway through and realized that the argument was no longer short, and other people have made the long argument well. In the interest of erring on the side of publishing more over editing things forever, I'm posting the half-baked argument anyway.
 
 The argument I’m about to make has three parts. The argument does not contain everything that scares me about artificial intelligence, but I was trying for a simple argument about the scariest thing.
