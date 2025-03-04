@@ -1,8 +1,8 @@
 ---
-Title: "Money and Privacy"
+title: "Digital Money and Tracking"
 ---
 
-I recently listened to an interview with Zeke Faux, who wrote Number Go Up. Then I read the book, which is a less-that-flattering book about the cryptocurrency community. This post is not about that book. Here's a quote from Patrick McKenzie([who conducted the interview](https://www.complexsystemspodcast.com/episodes/zeke-faux-stablecoins-tether/)) which inspired this post:
+I recently listened to an interview with Zeke Faux, who wrote Number Go Up. Then I read the book, which is a less-that-flattering book about the cryptocurrency community. This post is not about that book. Here's a quote from Patrick McKenzie ([who conducted the interview](https://www.complexsystemspodcast.com/episodes/zeke-faux-stablecoins-tether/)) which inspired this post:
 
 > One of the accomplishments of the Internet as a system, as an artifact, as a collection of industries was - there was a perception back in the day that the internet is a PVP zone. It's the wild west. There are hackers everywhere. They're going to take all your money if you ever show your face on the internet. And there would have been no e-commerce but for innovations like TLS encrypting the credit card when you send it over the wire, PayPal, et cetera. And the regulation - particularly the United States financial system like Regulation E, which says if you lose money, ... "Don't worry, even if the hackers grab your credit card, we will make you whole."
 >
