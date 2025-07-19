@@ -1,5 +1,5 @@
 ---
-title: 'Book Post: The Sirens Call and an Attention Deficit'
+title: 'Book Post: The Sirens'' Call and an Attention Deficit'
 ---
 
 A friend of mine called Chris Hayes's *The Sirens' Call* exceptionally thoughtful, so I gave it a read. It did not disappoint. The thesis of the book is about the commodification of attention, but I interpret this as a use case for a model the book lays out to understand human attention in general. Disclaimer: I no longer have access to the book, so I'm writing this from memory. I'll explain some of the things I took away from the book, and then I want to use the framework the book introduces to talk about myself a bit.
